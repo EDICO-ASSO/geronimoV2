@@ -3,9 +3,9 @@
   
  The sensor is a simple piezo tranducer.
   
- It is interface to an arduino Clone with ATMEGA32U4 controller. 
+ It is interfaced to an arduino Clone with ATMEGA32U4 controller. 
 
-This controller has integrade HID functions : it can trigger a keyboard or mouse event.
+This controller has integraded HID functions : it can trigger a keyboard or mouse event.
 
 The raw piezo signal is analysed with peakDetector Library.
 
