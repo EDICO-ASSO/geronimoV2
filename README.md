@@ -24,7 +24,8 @@ simple LED	0.2
 	
   Total : 26.06 €
   
-  
+  A0, A1 : analog input on arduino
+  D9 : digital output on arduino
   
   
 ![image](https://user-images.githubusercontent.com/106146411/172589768-22630a67-03f0-486a-a655-e8fd9497b247.png)
