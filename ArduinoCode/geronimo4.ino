@@ -1,3 +1,7 @@
+/* Par Samuel BERNARDET et Damien PERRIER - EDICO 
+/* www.edico-asso.fr
+/* License WTFPL  
+  
 /* carte beetle compatible leonardo*/
 
 #include "Keyboard.h" 
