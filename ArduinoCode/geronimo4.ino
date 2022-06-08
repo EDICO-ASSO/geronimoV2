@@ -96,8 +96,8 @@ if (time > 3000)  { //delay at startup for staring detection Output
     if (abs(peak) == 1 ) { // Detection triggered
     peak2 = 1;
     digitalWrite(LED, HIGH); //LED ON
-    //Keyboard.press(205); //EMULATE F12 on keyboard
-    Mouse.click();
+    Keyboard.press(205); //EMULATE F12 on keyboard
+    //Mouse.click();
     //delay(250);
     previousMillis = millis();
           }
