@@ -11,6 +11,25 @@ The raw piezo signal is analysed with peakDetector Library.
 
 When the signal overcomes a limit tunable with the potentiometer, it triggers a keyboard event and powers the LED on (F12 Press for example )
 
+CJMCU BEETLE Keyboard BadUSB ATMEGA32U4 DC 5V 16MHz MINI Development Board	19.92
+Cable jack 3.5 mm	0.79
+Buzzer piézo RS PRO 724-3162	0.75
+Potentiometer B5K	1.4
+velcro  round pad fixation	0.28
+arduino jack audio module	1.26
+PCB proto board 3x7	1.18
+simple LED	0.2
+3M Resistor	0.2
+327  ohm Resitor	0.08
+	
+  Total : 26.06 €
+  
+  
+  
+  
+![image](https://user-images.githubusercontent.com/106146411/172589768-22630a67-03f0-486a-a655-e8fd9497b247.png)
+
+
 
   ![schema](https://user-images.githubusercontent.com/106146411/172566455-401bdcc8-9a14-453b-8b7c-2d24d1731a99.png)
   
