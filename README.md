@@ -1,6 +1,17 @@
 # geronimoV2
   a low cost muscle switch with a usb interface to command a computer with any scrolling interruption software ( like the famous ACAT used by Stephen HAWKING https://01.org/acat/switches)
   
+ The sensor is a simple piezo tranducer.
+  
+ It is interface to an arduino Clone with ATMEGA32U4 controller. 
+
+This controller has integrade HID functions : it can trigger a keyboard or mouse event.
+
+The raw piezo signal is analysed with peakDetector Library.
+
+When the signal overcomes a limit tunable with the potentiometer, it triggers a keyboard event and powers the LED on (F12 Press for example )
+
+
   ![schema](https://user-images.githubusercontent.com/106146411/172566455-401bdcc8-9a14-453b-8b7c-2d24d1731a99.png)
   
   ![1 (2)](https://user-images.githubusercontent.com/106146411/172565982-fa904ce2-4385-43cf-8b7a-1d3f7f06c9d2.jpg)
