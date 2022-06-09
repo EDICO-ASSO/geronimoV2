@@ -19,6 +19,7 @@ When the signal overcomes a limit tunable with the potentiometer, it triggers a 
 ### Bill of material
 
 | Component | Cost (in €uro) |
+| --------- | -------------- |
 | CJMCU BEETLE Keyboard BadUSB ATMEGA32U4 DC 5V 16MHz MINI Development Board| 19.92 |
 | Cable jack 3.5 mm| 0.79 |
 | Buzzer piézo RS PRO 724-3162| 0.75 |
